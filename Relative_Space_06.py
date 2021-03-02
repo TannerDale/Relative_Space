@@ -1,4 +1,4 @@
-# GAME where time slows by bodies and direction is pulled
+# Relative Space
 
 import pygame
 import random
